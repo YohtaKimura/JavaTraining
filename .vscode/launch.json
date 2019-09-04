@@ -1,0 +1,62 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImprovedFibonacciString",
+            "request": "launch",
+            "mainClass": "ImprovedFibonacciString"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImprovedFibonacciPrintf",
+            "request": "launch",
+            "mainClass": "ImprovedFibonacciPrintf"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ArrayImprovedFibonacci",
+            "request": "launch",
+            "mainClass": "ArrayImprovedFibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImprovedHelloWorld",
+            "request": "launch",
+            "mainClass": "ImprovedHelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ImprovedFibonacci",
+            "request": "launch",
+            "mainClass": "ImprovedFibonacci"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Error",
+            "request": "launch",
+            "mainClass": "Error"
+        }
+    ]
+}

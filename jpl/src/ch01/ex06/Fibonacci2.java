@@ -1,4 +1,4 @@
-class Fibonacci2 {
+final class Fibonacci2 {
     static final String Title = "Title: Following are the Fibonacci numbers";
     /** 値が 50 未満のフィボナッチ数列を表示する */
     public static void main(String[] args) {

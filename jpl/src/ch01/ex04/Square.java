@@ -1,4 +1,4 @@
-class Square {
+final class Square {
     /** 値が 50 未満の平方数を表示する */
     public static void main(String[] args) {
         System.out.println("Title: Following are squared numbers");

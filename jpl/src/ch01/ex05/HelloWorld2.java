@@ -1,4 +1,4 @@
-class HelloWorld2 {
+final class HelloWorld2 {
     static final String GREETING = "Hello, world";
 
     public static void main(String[] args) {
